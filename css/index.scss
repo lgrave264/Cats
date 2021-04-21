@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-color: #15002b;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 1000'%3E%3Cg %3E%3Ccircle fill='%2315002b' cx='50' cy='0' r='50'/%3E%3Cg fill='%23190735' %3E%3Ccircle cx='0' cy='50' r='50'/%3E%3Ccircle cx='100' cy='50' r='50'/%3E%3C/g%3E%3Ccircle fill='%231f0c3f' cx='50' cy='100' r='50'/%3E%3Cg fill='%23260e49' %3E%3Ccircle cx='0' cy='150' r='50'/%3E%3Ccircle cx='100' cy='150' r='50'/%3E%3C/g%3E%3Ccircle fill='%232e1154' cx='50' cy='200' r='50'/%3E%3Cg fill='%2336135f' %3E%3Ccircle cx='0' cy='250' r='50'/%3E%3Ccircle cx='100' cy='250' r='50'/%3E%3C/g%3E%3Ccircle fill='%233f1669' cx='50' cy='300' r='50'/%3E%3Cg fill='%23481874' %3E%3Ccircle cx='0' cy='350' r='50'/%3E%3Ccircle cx='100' cy='350' r='50'/%3E%3C/g%3E%3Ccircle fill='%2351197f' cx='50' cy='400' r='50'/%3E%3Cg fill='%235b1b8a' %3E%3Ccircle cx='0' cy='450' r='50'/%3E%3Ccircle cx='100' cy='450' r='50'/%3E%3C/g%3E%3Ccircle fill='%23651c95' cx='50' cy='500' r='50'/%3E%3Cg fill='%23701d9f' %3E%3Ccircle cx='0' cy='550' r='50'/%3E%3Ccircle cx='100' cy='550' r='50'/%3E%3C/g%3E%3Ccircle fill='%237a1eaa' cx='50' cy='600' r='50'/%3E%3Cg fill='%23861eb5' %3E%3Ccircle cx='0' cy='650' r='50'/%3E%3Ccircle cx='100' cy='650' r='50'/%3E%3C/g%3E%3Ccircle fill='%23911ec0' cx='50' cy='700' r='50'/%3E%3Cg fill='%239d1dcb' %3E%3Ccircle cx='0' cy='750' r='50'/%3E%3Ccircle cx='100' cy='750' r='50'/%3E%3C/g%3E%3Ccircle fill='%23a91bd5' cx='50' cy='800' r='50'/%3E%3Cg fill='%23b619e0' %3E%3Ccircle cx='0' cy='850' r='50'/%3E%3Ccircle cx='100' cy='850' r='50'/%3E%3C/g%3E%3Ccircle fill='%23c214ea' cx='50' cy='900' r='50'/%3E%3Cg fill='%23d00df5' %3E%3Ccircle cx='0' cy='950' r='50'/%3E%3Ccircle cx='100' cy='950' r='50'/%3E%3C/g%3E%3Ccircle fill='%23D0F' cx='50' cy='1000' r='50'/%3E%3C/g%3E%3C/svg%3E");
+    background-attachment: fixed;
+    background-size: contain;   
+}
+
+h1,h3{
+    text-shadow: blue($color: #000000);
+    color: white;
+}
+fieldset{
+    color: white;
+}
+div{
+    margin-top: 80px;
+}
+
+ul,ol{
+    display: inline-block;
+}
+
+.catImg{
+    height: 100px;
+    width: 120px;
+}
